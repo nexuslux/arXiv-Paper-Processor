@@ -16,13 +16,14 @@ This project allows you to search for academic papers on arXiv, download and pro
 - Install dependencies with:
   ```bash
   pip install -r requirements.txt
+  ```
 
 Usage
 Clone the Repository:
 
-bash
-Copy code
+  ```bash
 git clone https://github.com/yourusername/arXiv-Paper-Processor.git
+  ```
 cd arXiv-Paper-Processor
 Install Dependencies:
 
@@ -31,9 +32,9 @@ Copy code
 pip install -r requirements.txt
 Run the Application:
 
-bash
-Copy code
+  ```bash
 python app.py
+```
 Access the Gradio Interface:
 The interface will launch in your web browser. Enter your search query and question to start processing papers.
 
