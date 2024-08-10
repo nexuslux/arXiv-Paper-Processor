@@ -27,10 +27,11 @@ git clone https://github.com/yourusername/arXiv-Paper-Processor.git
 cd arXiv-Paper-Processor
 Install Dependencies:
 
-bash
-Copy code
+  ```bash
 pip install -r requirements.txt
-Run the Application:
+  ```
+
+## Run the Application:
 
   ```bash
 python app.py
@@ -38,7 +39,8 @@ python app.py
 Access the Gradio Interface:
 The interface will launch in your web browser. Enter your search query and question to start processing papers.
 
-Project Structure
+## Project Structure
+
 app.py: Main application file containing the core logic.
 requirements.txt: List of required Python packages.
 README.md: Project documentation.
