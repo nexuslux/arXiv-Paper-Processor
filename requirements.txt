@@ -1,0 +1,5 @@
+gradio
+arxiv
+ollama
+chromadb
+langchain
